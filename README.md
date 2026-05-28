@@ -93,11 +93,12 @@ Seeking opportunities as a Data Analyst, Power BI Developer, or Business Intelli
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/prajyot-yesankar-79215b258/](http://www.linkedin.com/in/prajyot-yesankar-79215b258/)
-* HackerRank: [www.hackerrank.com/profile/yesankarprajyot](http://www.hackerrank.com/profile/yesankarprajyot)
-* GitHub: github.com/yesankarprajyot123
+🔗 LinkedIn: https://www.linkedin.com/in/prajyot-yesankar-79215b258/
+💻 HackerRank: https://www.hackerrank.com/profile/yesankarprajyot
+📂 GitHub: https://github.com/yesankarprajyot123
+
 
 ---
 
