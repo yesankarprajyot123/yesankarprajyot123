@@ -43,21 +43,30 @@ Currently pursuing B.Tech in Computer Science & Design at Datta Meghe Institute 
 
 ## 📊 Featured Projects
 
-### Super Sales Dashboard - Power BI
+### 📚 Library Management System – PostgreSQL
 
-Developed an interactive sales analytics dashboard with KPI tracking, forecasting, sales trends, profit analysis, and regional business insights using DAX and Power BI.
+Designed and developed a complete Library Management System using PostgreSQL. Implemented relational database design, CRUD operations, joins, aggregate functions, CTAS, and PL/pgSQL stored procedures to automate book issue/return processes and generate business reports.
 
-### Sales Forecast Dashboard
+### 🍫 Chocolate Sales Analytics Dashboard – Power BI
 
-Built a 15-day forecasting dashboard for sales trend prediction and future business planning using Power BI forecasting techniques.
+Developed an interactive sales analytics dashboard using Power BI to monitor KPIs, sales performance, profit, customer behavior, product trends, and regional insights with interactive visualizations.
 
-### Pneumonia Detection Using CNN
+### 📈 Sales Forecast Dashboard – Power BI
 
-Created a deep learning model for pneumonia classification using chest X-ray datasets and CNN architecture.
+Built a sales forecasting dashboard using Power BI to predict future sales trends and support business planning through forecasting techniques and time-series analysis.
 
-### Vehicle Cut-in Detection
+### 🛍️ Retail Sales Analytics – SQL
 
-Analyzed traffic datasets and developed predictive analytical models for driving safety and vehicle behavior analysis.
+Performed end-to-end retail sales analysis using SQL by writing complex queries involving joins, aggregate functions, subqueries, CTEs, and window functions to uncover customer behavior, product performance, and sales trends.
+
+### 👥 HR Analytics Dashboard – Power BI
+
+Created an interactive HR analytics dashboard to analyze employee attrition, workforce demographics, performance metrics, and organizational insights using Power BI and DAX.
+
+### 🩺 Multiple Disease Prediction System – Python
+
+Developed a machine learning web application using Python and Streamlit to predict multiple diseases based on user inputs. Implemented classification models, data preprocessing, and an interactive user interface.
+
 
 ---
 
