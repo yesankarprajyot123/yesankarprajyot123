@@ -28,7 +28,6 @@ Currently pursuing B.Tech in Computer Science & Design at Datta Meghe Institute 
 * NumPy
 * Matplotlib
 * Seaborn
-* JavaScript
 
 ### Tools & Platforms
 
